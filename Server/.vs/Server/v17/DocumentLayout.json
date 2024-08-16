@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\Unity_Project\\DarkGodServer\\Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FD2B118-AE4D-468D-8B0D-F3A78585D32D}|PEProtocal\\PEProtocal.csproj|e:\\unity_project\\darkgodserver\\server\\peprotocal\\pecommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FD2B118-AE4D-468D-8B0D-F3A78585D32D}|PEProtocal\\PEProtocal.csproj|solutionrelative:peprotocal\\pecommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98AA0A8E-8757-475C-B3F0-5C0F0C0CB98B}|Server\\Server.csproj|e:\\unity_project\\darkgodserver\\server\\server\\02system\\loginsys\\loginsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AA0A8E-8757-475C-B3F0-5C0F0C0CB98B}|Server\\Server.csproj|solutionrelative:server\\02system\\loginsys\\loginsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98AA0A8E-8757-475C-B3F0-5C0F0C0CB98B}|Server\\Server.csproj|E:\\Unity_Project\\DarkGodServer\\Server\\server\\02system\\powersys\\powersys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98AA0A8E-8757-475C-B3F0-5C0F0C0CB98B}|Server\\Server.csproj|solutionrelative:server\\02system\\powersys\\powersys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD2B118-AE4D-468D-8B0D-F3A78585D32D}|PEProtocal\\PEProtocal.csproj|e:\\unity_project\\darkgodserver\\server\\peprotocal\\pecommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD2B118-AE4D-468D-8B0D-F3A78585D32D}|PEProtocal\\PEProtocal.csproj|solutionrelative:peprotocal\\pecommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98AA0A8E-8757-475C-B3F0-5C0F0C0CB98B}|Server\\Server.csproj|E:\\Unity_Project\\DarkGodServer\\Server\\server\\01service\\timersvc\\timersvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoginSys.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGodServer\\Server\\Server\\02System\\LoginSys\\LoginSys.cs",
+              "RelativeDocumentMoniker": "Server\\02System\\LoginSys\\LoginSys.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGodServer\\Server\\Server\\02System\\LoginSys\\LoginSys.cs",
+              "RelativeToolTip": "Server\\02System\\LoginSys\\LoginSys.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:47:15.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PECommon.cs",
               "DocumentMoniker": "E:\\Unity_Project\\DarkGodServer\\Server\\PEProtocal\\PECommon.cs",
               "RelativeDocumentMoniker": "PEProtocal\\PECommon.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TimerSvc.cs",
               "DocumentMoniker": "E:\\Unity_Project\\DarkGodServer\\Server\\Server\\01Service\\TimerSvc\\TimerSvc.cs",
               "RelativeDocumentMoniker": "Server\\01Service\\TimerSvc\\TimerSvc.cs",
@@ -73,13 +90,14 @@
               "RelativeDocumentMoniker": "Server\\02System\\PowerSys\\PowerSys.cs",
               "ToolTip": "E:\\Unity_Project\\DarkGodServer\\Server\\Server\\02System\\PowerSys\\PowerSys.cs",
               "RelativeToolTip": "Server\\02System\\PowerSys\\PowerSys.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCAAAABMAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAA7wC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:31:56.859Z"
+              "WhenOpened": "2024-05-31T03:31:56.859Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CfgSvc.cs",
               "DocumentMoniker": "E:\\Unity_Project\\DarkGodServer\\Server\\Server\\01Service\\CfgSvc\\CfgSvc.cs",
               "RelativeDocumentMoniker": "Server\\01Service\\CfgSvc\\CfgSvc.cs",
@@ -91,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FubenSys.cs",
               "DocumentMoniker": "E:\\Unity_Project\\DarkGodServer\\Server\\Server\\02System\\FubenSys\\FubenSys.cs",
               "RelativeDocumentMoniker": "Server\\02System\\FubenSys\\FubenSys.cs",
@@ -103,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "NetSvc.cs",
               "DocumentMoniker": "E:\\Unity_Project\\DarkGodServer\\Server\\Server\\01Service\\NetSvc\\NetSvc.cs",
               "RelativeDocumentMoniker": "Server\\01Service\\NetSvc\\NetSvc.cs",
@@ -115,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GameMsg.cs",
               "DocumentMoniker": "E:\\Unity_Project\\DarkGodServer\\Server\\PEProtocal\\GameMsg.cs",
               "RelativeDocumentMoniker": "PEProtocal\\GameMsg.cs",
