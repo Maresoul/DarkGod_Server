@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{98AA0A8E-8757-475C-B3F0-5C0F0C0CB98B}|Server\\Server.csproj|solutionrelative:server\\02system\\powersys\\powersys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FD2B118-AE4D-468D-8B0D-F3A78585D32D}|PEProtocal\\PEProtocal.csproj|e:\\unity_project\\darkgodserver\\server\\peprotocal\\pecommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FD2B118-AE4D-468D-8B0D-F3A78585D32D}|PEProtocal\\PEProtocal.csproj|E:\\Unity_Project\\DarkGodServer\\Server\\peprotocal\\pecommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FD2B118-AE4D-468D-8B0D-F3A78585D32D}|PEProtocal\\PEProtocal.csproj|solutionrelative:peprotocal\\pecommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Server\\02System\\LoginSys\\LoginSys.cs",
               "ToolTip": "E:\\Unity_Project\\DarkGodServer\\Server\\Server\\02System\\LoginSys\\LoginSys.cs",
               "RelativeToolTip": "Server\\02System\\LoginSys\\LoginSys.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T00:47:15.34Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "PEProtocal\\PECommon.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAA0wDMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:36:02.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T03:36:02.606Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "Server\\02System\\PowerSys\\PowerSys.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAA7wC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:31:56.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T03:31:56.859Z"
             },
             {
               "$type": "Document",
